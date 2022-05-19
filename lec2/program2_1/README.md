@@ -5,4 +5,4 @@
 было выделено(18ая строчка). Если всё прошло успешно, программа очистит выделенную память (25-27 строчки). 
 
 ## Скриншот
-<img src="https://github.com/hud0shnik/bashScripts4sem/blob/main/task1_outputs/2_1.png">
+<img src=https://github.com/tenker01/OS_4/blob/main/Screenshots/1.jpg>
