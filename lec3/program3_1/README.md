@@ -9,4 +9,4 @@
 <img src="https://github.com/tenker01/OS_4/blob/main/Screenshots/2.jpg">
 
 
-только сейчас заметил опечатку в выводе, заранее извиняюсь
+
