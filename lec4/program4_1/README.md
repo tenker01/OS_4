@@ -7,5 +7,5 @@ Handler1 увеличивает счётчик на 1 и отправляет с
 Программа привязывает первую функцию обработки к текущему процессу. Далее если процесс окажется дочерним, сигнал будет обрабатывать функция handler2.
 
 ## Скриншот
-<img src="https://github.com/hud0shnik/bashScripts4sem/blob/main/task1_outputs/4_1.png">
+<img src="https://github.com/tenker01/OS_4/blob/main/Screenshots/4.jpg">
 
