@@ -6,7 +6,7 @@
 
 
 ## Скриншот
-<img src="https://github.com/hud0shnik/bashScripts4sem/blob/main/task1_outputs/3_1.png">
+<img src="https://github.com/tenker01/OS_4/blob/main/Screenshots/2.jpg">
 
 
 только сейчас заметил опечатку в выводе, заранее извиняюсь
