@@ -3,4 +3,4 @@
 Сначала программа вызывает функцию fork(), которая создаёт дочерний процесс (8ая строчка). После этого приложение выведет PID'ы процесса в ктором находится.
 
 ## Скриншот
-<img src="https://github.com/hud0shnik/bashScripts4sem/blob/main/task1_outputs/3_2.png">
+<img src="https://github.com/tenker01/OS_4/blob/main/Screenshots/3.jpg">
