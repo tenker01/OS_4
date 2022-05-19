@@ -4,5 +4,5 @@
 Если программа получила сообщение (34ая строчка), она выведет количество символов (учитывая терминальный ноль) и сам текст.
 
 ## Скриншот
-<img src="https://github.com/hud0shnik/bashScripts4sem/blob/main/task1_outputs/4_3.png">
+<img src="https://github.com/tenker01/OS_4/blob/main/Screenshots/6.jpg">
 
